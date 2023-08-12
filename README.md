@@ -1,6 +1,6 @@
 ![Upload](https://github.com/sbshabana/Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai/assets/140824272/223a6a8b-23e4-4ec0-8757-33b51bf16424)# Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai
 
-Model trained in ibm cloud using Tensorflow and web-app made using flask.
+Model trained in google colob or jupyter notebook using Tensorflow and web-app made using flask.
 
 ## Dataset Link
 
